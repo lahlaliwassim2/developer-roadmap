@@ -6,27 +6,9 @@
 <br>
 
 <div align="center">
-  <p>
-    <sup>
-      <a href="https://github.com/sponsors/lahlaliwassim2">My open source work is supported by the community</a>
-    </sup>
-  </p>
-
-  <sup>Special thanks to:</sup>
-  <br />
-  <p>
-    <a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=kamranahmedse&utm_source=github">
-      <div>
-        <img src="./.github/sponsors/doppler-karman.svg" width="300" alt="Doppler" >
-      </div>
-      <b>All your environment variables, in one place</b>
-      <div>
-        <sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-        <br>
-        <sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-      </div>
-    </a>
-  </p>
+	 <a href="[https://oss.capital](https://github.com/lahlaliwassim2)">
+  <img src="public/karman.png" height="128">
+	</a>
   <br>
   <p>
     <a href="https://oss.capital">
