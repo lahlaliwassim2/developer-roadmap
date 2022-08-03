@@ -23,7 +23,7 @@
 <div align="center">
   <p>
     <sup>
-      <a href="https://github.com/sponsors/kamranahmedse">My open source work is supported by the community</a>
+      <a href="https://github.com/sponsors/lahlaliwassim2">My open source work is supported by the community</a>
     </sup>
   </p>
 
@@ -32,7 +32,7 @@
   <p>
     <a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=kamranahmedse&utm_source=github">
       <div>
-        <img src="./.github/sponsors/doppler-logo.svg" width="300" alt="Doppler" >
+        <img src="./.github/sponsors/doppler-karman.svg" width="300" alt="Doppler" >
       </div>
       <b>All your environment variables, in one place</b>
       <div>
@@ -87,7 +87,7 @@ If you think that these can be improved in any way, please do suggest. Also, if 
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
+git clone https://github.com/lahlaliwassim2/developer-roadmap.git
 npm install
 npm run dev
 ```
