@@ -80,8 +80,7 @@ Here is the list of available roadmaps with more being actively worked upon.
 
 ![](https://i.imgur.com/waxVImv.png)
 
-If you think that these can be improved in any way, please do suggest. Also, if you would like to contribute to existing roadmaps or add a new roadmap, please open an issue or reach out to [@kamranahmedse](https://twitter.com/kamranahmedse).
-
+If you think that these can be improved in any way, please do suggest. Also, if you would like to contribute to existing roadmaps or add a new roadmap, please open an issue or reach out to [@lahlaliwassim]([(https://www.linkedin.com/in/wassim-lahlali/)])
 ## Development
 
 Clone the repository, install the dependencies and start the application
