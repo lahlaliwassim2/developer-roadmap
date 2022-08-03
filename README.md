@@ -7,7 +7,7 @@
 
 <div align="center">
 	 <a href="[https://oss.capital](https://github.com/lahlaliwassim2)">
-  <img src="public/karman.png" height="128">
+  <img src="public/kamran.png" height="128">
 	</a>
   <br>
   <p>
