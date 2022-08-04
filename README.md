@@ -5,22 +5,7 @@
 
 <br>
 
-<div align="center">
-	 <a href="[https://oss.capital](https://github.com/lahlaliwassim2)]">
-  <img src="public/bg.png" height="128">
-	</a>
-  <br>
-  <p>
-    <a href="https://oss.capital">
-      <div>
-        <img src="./.github/sponsors/oss-logo.svg" width="300" alt="OSS Capital">
-      </div>
-      <div>
-	  <sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
-      </div>
-    </a>
-  </p>
-</div>
+
 
 <br>
 
